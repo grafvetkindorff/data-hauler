@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module cursive.leiningen.project.LeiningenProjectsManager.displayName="data-hauler:0.1.0-SNAPSHOT" cursive.leiningen.project.LeiningenProjectsManager.isLeinModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/dev-resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Leiningen: cambium/cambium.codec-simple:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: cambium/cambium.core:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: cambium/cambium.logback.core:0.4.4" level="project" />
+    <orderEntry type="library" name="Leiningen: ch.qos.logback/logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: ch.qos.logback/logback-core:1.2.3" level="project" />
+    <orderEntry type="library" name="Leiningen: clojure-complete:0.2.5" level="project" />
+    <orderEntry type="library" name="Leiningen: com.fasterxml.jackson.core/jackson-annotations:2.9.8" level="project" />
+    <orderEntry type="library" name="Leiningen: com.fasterxml.jackson.core/jackson-core:2.9.8" level="project" />
+    <orderEntry type="library" name="Leiningen: com.fasterxml.jackson.core/jackson-databind:2.9.8" level="project" />
+    <orderEntry type="library" name="Leiningen: com.google.code.findbugs/jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Leiningen: com.google.flatbuffers/flatbuffers-java:1.9.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.microsoft.sqlserver/mssql-jdbc:8.4.0.jre8" level="project" />
+    <orderEntry type="library" name="Leiningen: com.stuartsierra/component:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.stuartsierra/dependency:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: com.zaxxer/HikariCP:3.4.5" level="project" />
+    <orderEntry type="library" name="Leiningen: commons-codec:1.10" level="project" />
+    <orderEntry type="library" name="Leiningen: io.netty/netty-common:4.1.48.Final" level="project" />
+    <orderEntry type="library" name="Leiningen: nrepl:0.6.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.arrow/arrow-format:2.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.arrow/arrow-memory-core:2.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.arrow/arrow-memory-unsafe:2.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.arrow/arrow-vector:2.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.10.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/core.specs.alpha:0.2.44" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/java.data:1.0.78" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/spec.alpha:0.2.176" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure/tools.logging:1.1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.codehaus.janino/commons-compiler:3.1.2" level="project" />
+    <orderEntry type="library" name="Leiningen: org.codehaus.janino/janino:3.1.2" level="project" />
+    <orderEntry type="library" name="Leiningen: org.postgresql/postgresql:42.2.14" level="project" />
+    <orderEntry type="library" name="Leiningen: org.slf4j/slf4j-api:1.7.30" level="project" />
+    <orderEntry type="library" name="Leiningen: seancorfield/next.jdbc:1.1.569" level="project" />
+  </component>
+</module>
